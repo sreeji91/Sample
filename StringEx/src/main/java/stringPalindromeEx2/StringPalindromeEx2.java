@@ -5,7 +5,6 @@ public class StringPalindromeEx2 {
 	public static void main(String[] args) {
 		String s1="";
 		String s5="";
-		StringBuffer s2=new StringBuffer();
 		System.out.println("Palindrome or NOt");
 		System.out.println("Enter a string");
 		Scanner sc=new Scanner(System.in);

@@ -3,7 +3,7 @@ package stringExample;
 public class StringSample {
 
 	public static void main(String[] args) {
-		/*String s1="Hello world";
+		String s1="Hello world";
 		String s2="Hello world";
 		String s3="Welcome to java";
 		System.out.println(s1.length()); 
@@ -17,7 +17,7 @@ public class StringSample {
 		System.out.println(s6);
 		
 		s1=s1.concat(s3);// Concatenation
-		System.out.println(s1);*/
+		System.out.println(s1);
 		
 		String s11="Hello";
 		String s12="Hi";
